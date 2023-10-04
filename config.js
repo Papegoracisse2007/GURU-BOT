@@ -8,11 +8,11 @@ import axios from 'axios'
 
 global.owner = [
   ['33751502097', 'NK455', true],
-  ['33751502097', 'NK455', true], 
+  ['33751502065', 'FURIE', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['33751502097','32460248586'] 
+global.mods = ['33751502097','32460248656'] 
 global.prems = ['33751502097', '32460248586', '919398758484']
 global.allowed = ['917605902011', '32460248586', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -48,10 +48,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'TRAFALGAR BOT'
+global.botname = 'FURIE2.0'
 global.premium = 'true'
-global.packname = 'NK455' 
-global.author = 'by nk455' 
+global.packname = 'FURIE' 
+global.author = 'by GORA' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
